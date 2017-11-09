@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1510227244871
+Build-Jdk: 1.8.0_65
+Built-By: andrethomazini
+Bundle-Description: XDocReport means XML Document reporting. It's Java A
+ PI to merge XML document created with MS Office (docx) or OpenOffice (o
+ dt), LibreOffice (odt) with a Java model to generate report and convert
+  it if you need to another format (PDF, XHTML...).
+Bundle-License: http://www.opensource.org/licenses/mit-license.php
+Bundle-ManifestVersion: 2
+Bundle-Name: org.odftoolkit.odfdom.converter.pdf.itext5
+Bundle-RequiredExecutionEnvironment: J2SE-1.5, JavaSE-1.6
+Bundle-SymbolicName: org.odftoolkit.odfdom.converter.pdf.itext5
+Bundle-Version: 1.0.6
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.odftoolkit.odfdom.converter.pdf;version="1.0.6"
+Implementation-Title: org.odftoolkit.odfdom.converter.pdf.itext5
+Implementation-Vendor-Id: fr.opensagres.xdocreport
+Implementation-Version: 1.0.6
+Import-Package: com.itextpdf.text,com.itextpdf.text.factories,com.itextp
+ df.text.pdf,com.itextpdf.text.pdf.draw,fr.opensagres.xdocreport.itext.e
+ xtension;version="[1.0,2)",fr.opensagres.xdocreport.itext.extension.col
+ or;version="[1.0,2)",fr.opensagres.xdocreport.itext.extension.font;vers
+ ion="[1.0,2)",fr.opensagres.xdocreport.utils;version="[1.0,2)",org.odft
+ oolkit.odfdom.converter.core;version="[1.0,2)",org.odftoolkit.odfdom.co
+ nverter.core.utils;version="[1.0,2)",org.odftoolkit.odfdom.doc,org.odft
+ oolkit.odfdom.dom,org.odftoolkit.odfdom.dom.attribute.fo,org.odftoolkit
+ .odfdom.dom.attribute.style,org.odftoolkit.odfdom.dom.attribute.table,o
+ rg.odftoolkit.odfdom.dom.element,org.odftoolkit.odfdom.dom.element.draw
+ ,org.odftoolkit.odfdom.dom.element.office,org.odftoolkit.odfdom.dom.ele
+ ment.style,org.odftoolkit.odfdom.dom.element.svg,org.odftoolkit.odfdom.
+ dom.element.table,org.odftoolkit.odfdom.dom.element.text,org.odftoolkit
+ .odfdom.dom.style,org.odftoolkit.odfdom.incubator.doc.office,org.odftoo
+ lkit.odfdom.pkg,org.w3c.dom
+Specification-Title: org.odftoolkit.odfdom.converter.pdf.itext5
+Specification-Version: 1.0.6
+Tool: Bnd-1.50.0

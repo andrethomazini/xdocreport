@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1510227231762
+Build-Jdk: 1.8.0_65
+Built-By: andrethomazini
+Bundle-Description: XDocReport means XML Document reporting. It's Java A
+ PI to merge XML document created with MS Office (docx) or OpenOffice (o
+ dt), LibreOffice (odt) with a Java model to generate report and convert
+  it if you need to another format (PDF, XHTML...).
+Bundle-License: http://www.opensource.org/licenses/mit-license.php
+Bundle-ManifestVersion: 2
+Bundle-Name: org.odftoolkit.odfdom.converter.pdf
+Bundle-RequiredExecutionEnvironment: J2SE-1.5, JavaSE-1.6
+Bundle-SymbolicName: org.odftoolkit.odfdom.converter.pdf
+Bundle-Version: 1.0.6
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.odftoolkit.odfdom.converter.pdf;version="1.0.6"
+Implementation-Title: org.odftoolkit.odfdom.converter.pdf
+Implementation-Vendor-Id: fr.opensagres.xdocreport
+Implementation-Version: 1.0.6
+Import-Package: com.lowagie.text,com.lowagie.text.factories,com.lowagie.
+ text.pdf,com.lowagie.text.pdf.draw,fr.opensagres.xdocreport.itext.exten
+ sion;version="[1.0,2)",fr.opensagres.xdocreport.itext.extension.color;v
+ ersion="[1.0,2)",fr.opensagres.xdocreport.itext.extension.font;version=
+ "[1.0,2)",fr.opensagres.xdocreport.utils;version="[1.0,2)",org.odftoolk
+ it.odfdom.converter.core;version="[1.0,2)",org.odftoolkit.odfdom.conver
+ ter.core.utils;version="[1.0,2)",org.odftoolkit.odfdom.doc,org.odftoolk
+ it.odfdom.dom,org.odftoolkit.odfdom.dom.attribute.fo,org.odftoolkit.odf
+ dom.dom.attribute.style,org.odftoolkit.odfdom.dom.attribute.table,org.o
+ dftoolkit.odfdom.dom.element,org.odftoolkit.odfdom.dom.element.draw,org
+ .odftoolkit.odfdom.dom.element.office,org.odftoolkit.odfdom.dom.element
+ .style,org.odftoolkit.odfdom.dom.element.svg,org.odftoolkit.odfdom.dom.
+ element.table,org.odftoolkit.odfdom.dom.element.text,org.odftoolkit.odf
+ dom.dom.style,org.odftoolkit.odfdom.incubator.doc.office,org.odftoolkit
+ .odfdom.pkg,org.w3c.dom
+Specification-Title: org.odftoolkit.odfdom.converter.pdf
+Specification-Version: 1.0.6
+Tool: Bnd-1.50.0

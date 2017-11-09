@@ -1,0 +1,4 @@
+org\apache\poi\xwpf\converter\pdf\PdfConverterTestCase.class
+org\apache\poi\xwpf\converter\core\AbstractXWPFPOIConverterTest.class
+org\apache\poi\xwpf\converter\pdf\FastPdfConverterTestCase.class
+org\apache\poi\xwpf\converter\pdf\PdfConvertChineseTestCase.class

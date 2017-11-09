@@ -1,0 +1,3 @@
+org\odftoolkit\odfdom\converter\pdf\PdfConvertChineseTestCase.class
+org\odftoolkit\odfdom\converter\pdf\PdfConverterTestCase.class
+org\odftoolkit\odfdom\converter\core\AbstractODFDOMConverterTest.class

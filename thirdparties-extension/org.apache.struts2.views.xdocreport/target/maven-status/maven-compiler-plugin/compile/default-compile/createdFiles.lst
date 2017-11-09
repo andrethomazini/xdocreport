@@ -1,0 +1,12 @@
+org\apache\struts2\views\xdocreport\LazyPopulateContext.class
+org\apache\struts2\views\xdocreport\LocationType.class
+org\apache\struts2\views\xdocreport\AbstractXDocReportResult$1.class
+org\apache\struts2\views\xdocreport\AbstractPopulateContext.class
+org\apache\struts2\views\xdocreport\LazyCommonsBeanUtilsPopulateContext.class
+org\apache\struts2\views\xdocreport\XDocReportInitializerAware.class
+org\apache\struts2\views\xdocreport\PopulateContextAware.class
+org\apache\struts2\views\xdocreport\LazyXDocReportResult.class
+org\apache\struts2\views\xdocreport\XDocReportResult.class
+org\apache\struts2\views\xdocreport\AbstractXDocReportResult.class
+org\apache\struts2\views\xdocreport\LazyCommonsBeanUtilsXDocReportResult.class
+org\apache\struts2\views\xdocreport\ActionInvocationUtils.class

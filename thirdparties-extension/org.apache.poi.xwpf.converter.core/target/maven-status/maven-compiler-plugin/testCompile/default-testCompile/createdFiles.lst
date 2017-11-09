@@ -1,0 +1,5 @@
+org\apache\poi\xwpf\converter\core\styles\Data.class
+org\apache\poi\xwpf\converter\core\styles\FontStylesBasedOnTestCase.class
+org\apache\poi\xwpf\converter\core\styles\TableCellVerticalAlignmentTestCase.class
+org\apache\poi\xwpf\converter\core\styles\A.class
+org\apache\poi\xwpf\converter\core\styles\run\FontSizeDocDefaultsTestCase.class

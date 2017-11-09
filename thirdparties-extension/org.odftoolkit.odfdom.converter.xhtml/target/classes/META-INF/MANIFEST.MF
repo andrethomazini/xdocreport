@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1510227233680
+Build-Jdk: 1.8.0_65
+Built-By: andrethomazini
+Bundle-Description: XDocReport means XML Document reporting. It's Java A
+ PI to merge XML document created with MS Office (docx) or OpenOffice (o
+ dt), LibreOffice (odt) with a Java model to generate report and convert
+  it if you need to another format (PDF, XHTML...).
+Bundle-License: http://www.opensource.org/licenses/mit-license.php
+Bundle-ManifestVersion: 2
+Bundle-Name: org.odftoolkit.odfdom.converter.xhtml
+Bundle-RequiredExecutionEnvironment: J2SE-1.5, JavaSE-1.6
+Bundle-SymbolicName: org.odftoolkit.odfdom.converter.xhtml
+Bundle-Version: 1.0.6
+Created-By: Apache Maven Bundle Plugin
+Export-Package: fr.opensagres.xdocreport.xhtml.extension;version="1.0.6"
+ ,org.odftoolkit.odfdom.converter.xhtml;version="1.0.6"
+Implementation-Title: org.odftoolkit.odfdom.converter.xhtml
+Implementation-Vendor-Id: fr.opensagres.xdocreport
+Implementation-Version: 1.0.6
+Import-Package: fr.opensagres.xdocreport.xhtml.extension,org.odftoolkit.
+ odfdom.converter.core;version="[1.0,2)",org.odftoolkit.odfdom.converter
+ .core.utils;version="[1.0,2)",org.odftoolkit.odfdom.doc,org.odftoolkit.
+ odfdom.dom,org.odftoolkit.odfdom.dom.element,org.odftoolkit.odfdom.dom.
+ element.draw,org.odftoolkit.odfdom.dom.element.office,org.odftoolkit.od
+ fdom.dom.element.style,org.odftoolkit.odfdom.dom.element.table,org.odft
+ oolkit.odfdom.dom.element.text,org.odftoolkit.odfdom.dom.style,org.odft
+ oolkit.odfdom.incubator.doc.office,org.odftoolkit.odfdom.incubator.doc.
+ style,org.odftoolkit.odfdom.incubator.doc.text,org.odftoolkit.odfdom.pk
+ g,org.w3c.dom
+Specification-Title: org.odftoolkit.odfdom.converter.xhtml
+Specification-Version: 1.0.6
+Tool: Bnd-1.50.0

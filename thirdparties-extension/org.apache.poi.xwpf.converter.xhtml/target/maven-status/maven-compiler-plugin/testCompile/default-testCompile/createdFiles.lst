@@ -1,0 +1,3 @@
+org\apache\poi\xwpf\converter\core\AbstractXWPFPOIConverterTest.class
+org\apache\poi\xwpf\converter\xhtml\XHTMLConverterChineseTestCase.class
+org\apache\poi\xwpf\converter\xhtml\XHTMLConverterTestCase.class

@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1510227240671
+Build-Jdk: 1.8.0_65
+Built-By: andrethomazini
+Bundle-Description: XDocReport means XML Document reporting. It's Java A
+ PI to merge XML document created with MS Office (docx) or OpenOffice (o
+ dt), LibreOffice (odt) with a Java model to generate report and convert
+  it if you need to another format (PDF, XHTML...).
+Bundle-License: http://www.opensource.org/licenses/mit-license.php
+Bundle-ManifestVersion: 2
+Bundle-Name: org.springframework.web.servlet.view.xdocreport
+Bundle-RequiredExecutionEnvironment: J2SE-1.5, JavaSE-1.6
+Bundle-SymbolicName: org.springframework.web.servlet.view.xdocreport
+Bundle-Version: 1.0.6
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.springframework.web.servlet.view.xdocreport;version=
+ "1.0.6"
+Implementation-Title: org.springframework.web.servlet.view.xdocreport
+Implementation-Vendor-Id: fr.opensagres.xdocreport
+Implementation-Version: 1.0.6
+Import-Package: fr.opensagres.xdocreport.converter;version="[1.0,2)",fr.
+ opensagres.xdocreport.core;version="[1.0,2)",fr.opensagres.xdocreport.c
+ ore.utils;version="[1.0,2)",fr.opensagres.xdocreport.document;version="
+ [1.0,2)",fr.opensagres.xdocreport.document.dump;version="[1.0,2)",fr.op
+ ensagres.xdocreport.document.registry;version="[1.0,2)",fr.opensagres.x
+ docreport.template;version="[1.0,2)",javax.servlet,javax.servlet.http,o
+ rg.springframework.context,org.springframework.core.io,org.springframew
+ ork.util,org.springframework.web.servlet.view
+Specification-Title: org.springframework.web.servlet.view.xdocreport
+Specification-Version: 1.0.6
+Tool: Bnd-1.50.0
