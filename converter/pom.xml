@@ -4,7 +4,7 @@
 	<name>XDocReport Converter implementation</name>
 	<parent>
 		<groupId>fr.opensagres.xdocreport</groupId>
-		<artifactId>xdocreport-parent</artifactId>
+		<artifactId>xdocreport-parent-db1</artifactId>
 		<version>1.0.6</version>
 		<relativePath>..</relativePath>
 	</parent>
@@ -13,7 +13,7 @@
 		<!-- XDocReport Converter API -->
 		<module>fr.opensagres.xdocreport.converter</module>
 		<!-- XDocReport Converter Default implementation -->
-		<module>fr.opensagres.xdocreport.converter.docx.xwpf</module>
+		<module>fr.opensagres.xdocreport.converter-db1.docx.xwpf</module>
 		<module>fr.opensagres.xdocreport.converter.odt.odfdom</module>
 		<module>fr.opensagres.xdocreport.converter.docx.docx4j</module>		
 	</modules>
